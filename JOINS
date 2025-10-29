@@ -1,6 +1,7 @@
 Primary Key, Every table has one or two primary key that would be check unique value present in the row followed by removing duplicates value present in the row.
 it does not allow repeated values in the column values.
-"A Foreign Key is a column (or a set of columns) in one table  that refers to the Primary Key in another table. It is used to maintain referential integrity between the two tables. The foreign key ensures that the value in that column must already exist in the parent table’s primary key
+"A Foreign Key is a column (or a set of columns) in one table  that refers to the Primary Key in another table. It is used to maintain referential integrity between
+the two tables. The foreign key ensures that the value in that column must already exist in the parent table’s primary key
 Inner Join, It is used to join row when two data rows are matched between two table
 Syntax for the Inner Join in ANSI Method
 SELECT E.name , D.name
