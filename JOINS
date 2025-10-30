@@ -8,3 +8,4 @@ SELECT E.name , D.name
 FROM Employee1 E
 INNER JOIN Department D
 ON e.Deptno = d.deptno;
+
